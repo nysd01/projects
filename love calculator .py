@@ -18,4 +18,4 @@ def calculate_love_score(name1, name2):
     print(score)
 
 #type the two names below
-calculate_love_score("Kanye West", "Kim Kardashian")
+calculate_love_score("Nysd derek", "verlaine claude")
